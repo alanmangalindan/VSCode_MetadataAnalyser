@@ -1,0 +1,11 @@
+Field,Used in APEX,Used in VF,Used in LX,Used in WF/PB,Used in Reports / Dashboards,Used in Template
+Accessories__c,Y,N,N,N,N,N
+Accessories_Only__c,N,N,N,N,N,Y
+Account_name__c,Y,N,N,N,Y,Y
+AccountId,Y,Y,Y,Y,N,Y
+Accounts_Query__c,N,N,N,N,N,N
+Accounts_Type__c,N,N,N,N,N,N
+Additional_Training_Required__c,N,N,N,N,N,N
+Anti_Spam__c,N,N,N,N,N,N
+ANZ_CS_Resolution_On_Hold_Reason__c,N,N,N,N,N,N
+ANZ_GS_Resolution_On_Hold_Reason__c,N,N,N,N,N,N

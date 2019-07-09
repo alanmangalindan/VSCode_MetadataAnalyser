@@ -1,0 +1,26 @@
+# Java for VSCode
+# Source: https://github.com/microsoft/vscode-java-test/blob/master/.gitignore
+bin/
+target/
+out/
+server/
+node_modules/
+.classpath
+.project
+.settings
+.vscode
+
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+# Mac OS
+**/.DS_Store
